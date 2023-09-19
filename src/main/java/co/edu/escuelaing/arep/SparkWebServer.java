@@ -20,7 +20,4 @@ public class SparkWebServer {
         }
         return 4567;
     }
-
-
-    
 }
