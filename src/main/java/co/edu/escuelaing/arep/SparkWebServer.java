@@ -8,10 +8,10 @@ public class SparkWebServer {
         port(getPort());
         get("hello", (req,res) -> "Hello Docker!");
 
-        get("sin", (req,res) -> "Hello Docker!");
-        get("cos", (req,res) -> "Hello Docker!");
-        get("palindrome", (req,res) -> "Hello Docker!");
-        get("magnitude", (req,res) -> "Hello Docker!");
+        get("sin", (req,res) -> Functionalities.sin(req.queryParams("number")));
+        get("cos", (req,res) -> Functionalities.cosin(req.queryParams("number")));
+        get("palindrome", (req,res) -> Functionalities.palindrome(req.queryParams("word")));
+        get("magnitude", (req,res) -> Functionalities.magnitude(req.queryParams("int1"), req.queryParams("int2")));
     }
 
     private static int getPort() {
