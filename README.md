@@ -12,6 +12,10 @@
 ![image](https://github.com/SanRocks1220/AREP-Bono/assets/99696682/96f712b2-1a81-4663-9ae0-174bcf470b25)
 ![image](https://github.com/SanRocks1220/AREP-Bono/assets/99696682/1e51785d-b7ce-43bd-ba3c-835aa59650cb)
 
+## Docker
+![image](https://github.com/SanRocks1220/AREP-Bono/assets/99696682/35ce00ab-ea3a-4f5d-bede-6cb6aba1f666)
+
+
 ## Autor
 Santiago Andrés Rocha
 
