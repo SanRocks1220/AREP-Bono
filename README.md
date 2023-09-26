@@ -1,7 +1,7 @@
 # AREP-Bono
 
 ## Resumen
-
+El proyecto consiste en la creación de un servidor utilizando SparkWeb, una tecnología de servidor web de alto rendimiento, y luego empaquetar este servidor en una imagen de Docker. Una vez creada la imagen de Docker con la configuración deseada, se sube al repositorio DockerHub para su distribución y fácil acceso, permitiendo así desplegar el servidor de manera eficiente y escalable en diferentes entornos de manera sencilla.
 
 ## Funcionamiento
 El servidor funciona de la siguiente manera:
