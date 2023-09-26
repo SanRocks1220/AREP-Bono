@@ -1,8 +1,8 @@
 package co.edu.escuelaing.arep;
 
-import org.junit.jupiter.api.Test;
+import static org.junit.Assert.assertTrue;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.Test;
 
 /**
  * Unit test for simple App.
@@ -11,8 +11,10 @@ class AppTest {
     /**
      * Rigorous Test.
      */
+    /*
     @Test
     void testApp() {
-        assertEquals(1, 1);
+        assertTrue(true);
     }
+     */
 }
